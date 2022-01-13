@@ -28,14 +28,10 @@ fetch('perritos.json')
                     `<div class="col-lg-4">
                     <div class="card p-0 m-5">
                         <div class="card-image"> <img src=${perrito.img}> </div>
-                        <div class="card-content d-flex flex-column     align-items-center">
-                            <h4 class="pt-2">SomeOne Famous</h4>
+                        <div class="card-content d-flex flex-column align-items-center">
+                            <h4 class="pt-2">${perrito.nombre} </h4>
                             <h5>Creative Desinger</h5>
-                            <ul class="social-icons d-flex justify-content-center">
-                                <li style="--i:1"> <a href="#"> <span class="fab fa-facebook"></span> </a> </li>
-                                <li style="--i:2"> <a href="#"> <span class="fab fa-twitter"></span> </a> </li>
-                                <li style="--i:3"> <a href="#"> <span class="fab fa-instagram"></span> </a> </li>
-                            </ul>
+                            
                         </div>
                     </div>
                 `
