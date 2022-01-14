@@ -25,7 +25,7 @@ fetch('perritos.json')
         data.map(
             perrito => {
                 cardsCachorros.innerHTML +=
-                    `<div class="col-lg-4">
+                    `<div class="col-md-6 col-lg-4 ">
                     <div class="card p-0 m-5">
                         <div class="card-image"> <img src=${perrito.img}> </div>
                         <div class="card-content d-flex flex-column align-items-center">
