@@ -1,39 +1,29 @@
 [
     {
-        "img": "./img/perro2.jpeg",
-        "nombre": "Tito"
+        "img": "./img/1.png"
     },
     {
-        "img": "./img/perro3.jpeg",
-        "nombre": "Pepito"
+        "img": "./img/2.png"
     },
     {
-        "img": "./img/perro4.jpeg",
-        "nombre": "Pepito"
+        "img": "./img/3.png"
     },
     {
-        "img": "./img/perro5.jpeg",
-        "nombre": "Pepito"
-    },
-    
+        "img": "./img/4.png"
+    },    
     {
-        "img": "./img/perro7.jpeg",
-        "nombre": "Josecito"
+        "img": "./img/5.png"
     },
     {
-        "img": "./img/perro8.jpeg",
-        "nombre": "Monchito"
+        "img": "./img/6.png"
     },
     {
-        "img": "./img/perro9.jpeg",
-        "nombre": "Bart"
+        "img": "./img/7.png"
     },
     {
-        "img": "./img/perro10.jpeg",
-        "nombre": "Robin"
+        "img": "./img/8.png"
     },
     {
-        "img": "./img/perritos1.jpeg",
-        "nombre": "La banda"
+        "img": "./img/9.png"
     }
 ]

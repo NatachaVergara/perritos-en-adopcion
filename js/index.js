@@ -2,7 +2,7 @@ const cardsCachorros = document.querySelector('.cachorros')
 
 const carousel = document.querySelector('.root')
 
-const mp4 = document.querySelector('.videos')
+const mp4 = document.querySelector('videos')
 
 fetch('slider.json')
     .then(promesa => promesa.json())
@@ -25,14 +25,13 @@ fetch('perritos.json')
         data.map(
             perrito => {
                 cardsCachorros.innerHTML +=
-                    `<div class="col-md-6 col-lg-4"
-                            data-aos="zoom-out-down">
-                    <div class="card p-0 m-5">
-                        <div class="card-image"> <img src=${perrito.img}> </div>
-                        <div class="card-content d-flex flex-column align-items-center">
-                            <h4 class="pt-2">${perrito.nombre}  </h4>
-                          </div>
-                    </div>
+                    `   <div class="col-sm-8 col-md-4 col-lg-4  mt-5" data-aos="zoom-out-down">
+                            <div class="card p-0">
+                                <div class="card-image">
+                                    <img src=${perrito.img}>
+                                </div>                        
+                            </div>
+                        </div>        
                 `
             }
         )
