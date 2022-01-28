@@ -1,23 +1,19 @@
 [
     {
-        "img" : "https://firebasestorage.googleapis.com/v0/b/portfolio-c32fd.appspot.com/o/perritos%2Fslider1.jpeg?alt=media&token=daabaf08-2908-4460-b260-effc8e2c82b7"
+        "img": "https://firebasestorage.googleapis.com/v0/b/portfolio-c32fd.appspot.com/o/perritos%2Fslider1.jpeg?alt=media&token=daabaf08-2908-4460-b260-effc8e2c82b7"
     },
     {
         "img": "https://firebasestorage.googleapis.com/v0/b/portfolio-c32fd.appspot.com/o/perritos%2Fslider2.jpeg?alt=media&token=7f124ec1-33a9-497f-bb8c-8d3fa2e895c8"
     },
-    
     {
         "img": "https://firebasestorage.googleapis.com/v0/b/portfolio-c32fd.appspot.com/o/perritos%2Fslider3.jpeg?alt=media&token=55c0e9ee-69ac-43d7-b6c2-e3a045a03dd3"
     },
-    
     {
         "img": "https://firebasestorage.googleapis.com/v0/b/portfolio-c32fd.appspot.com/o/perritos%2Fslider4.jpeg?alt=media&token=625225fb-112b-4a01-ba61-0d07f01a65b5"
     },
-    
     {
         "img": "https://firebasestorage.googleapis.com/v0/b/portfolio-c32fd.appspot.com/o/perritos%2Fslider5.jpeg?alt=media&token=d0aef117-6c72-4ea2-b529-81e591ad0511"
     },
-    
     {
         "img": "https://firebasestorage.googleapis.com/v0/b/portfolio-c32fd.appspot.com/o/perritos%2Fslider6.jpeg?alt=media&token=4c95f5eb-85ee-4527-8720-08e846e99b65"
     },
@@ -25,11 +21,12 @@
         "img": "https://firebasestorage.googleapis.com/v0/b/portfolio-c32fd.appspot.com/o/perritos%2Fslider7.jpeg?alt=media&token=4505078b-ff2a-4d6d-bb1c-f3feff063454"
     },
     {
-        "img": "https://firebasestorage.googleapis.com/v0/b/portfolio-c32fd.appspot.com/o/perritos%2Fslider8.jpeg?alt=media&token=f4bac3be-5aaa-4728-a798-0bb4533013d8"
+        "img": "./img/perritos1.jpeg"
+    },
+    {
+        "img": "./img/perritos3.jpeg"
+    },
+    {
+        "img": "./img/perritos4.jpeg"
     }
-    
-
-
-
-
 ]

@@ -1,34 +1,39 @@
 [
     {
-        "img": "https://firebasestorage.googleapis.com/v0/b/portfolio-c32fd.appspot.com/o/perritos%2Fcachorro1.jpeg?alt=media&token=62c2d317-7999-4ba5-a203-2554b8e9cb0e",
-        "nombre": "Lucho"
-    },
-    {
-        "img": "https://firebasestorage.googleapis.com/v0/b/portfolio-c32fd.appspot.com/o/perritos%2Fcachorro2.jpeg?alt=media&token=05e298e9-ecea-46e0-abd2-334126c917fa",
+        "img": "./img/perro2.jpeg",
         "nombre": "Tito"
     },
     {
-        "img": "https://firebasestorage.googleapis.com/v0/b/portfolio-c32fd.appspot.com/o/perritos%2Fcachorro3.jpeg?alt=media&token=c86fb4c7-b46c-4777-bf46-e5f4187a9e0b",
+        "img": "./img/perro3.jpeg",
         "nombre": "Pepito"
     },
     {
-        "img": "https://firebasestorage.googleapis.com/v0/b/portfolio-c32fd.appspot.com/o/perritos%2Fcachorro4.jpeg?alt=media&token=9f60d047-8717-4143-b4c5-a6b2eda7def5",
+        "img": "./img/perro4.jpeg",
+        "nombre": "Pepito"
+    },
+    {
+        "img": "./img/perro5.jpeg",
+        "nombre": "Pepito"
+    },
+    
+    {
+        "img": "./img/perro7.jpeg",
         "nombre": "Josecito"
     },
     {
-        "img": "https://firebasestorage.googleapis.com/v0/b/portfolio-c32fd.appspot.com/o/perritos%2Fcachorro5.jpeg?alt=media&token=742dcdc3-df86-4f8a-be19-ccb48eeee5a1",
+        "img": "./img/perro8.jpeg",
         "nombre": "Monchito"
     },
     {
-        "img": "https://firebasestorage.googleapis.com/v0/b/portfolio-c32fd.appspot.com/o/perritos%2Fcachorro6.jpeg?alt=media&token=3792f5ea-94df-4a7f-bb67-d6dd2f82926b",
+        "img": "./img/perro9.jpeg",
         "nombre": "Bart"
     },
     {
-        "img": "https://firebasestorage.googleapis.com/v0/b/portfolio-c32fd.appspot.com/o/perritos%2Fcachorro1a.jpeg?alt=media&token=bc6f261f-22dc-4a77-bc1d-7f9eacd1d2c0",
+        "img": "./img/perro10.jpeg",
         "nombre": "Robin"
     },
     {
-        "img": "https://firebasestorage.googleapis.com/v0/b/portfolio-c32fd.appspot.com/o/perritos%2Fcachorro9.jpeg?alt=media&token=cadfa8db-a203-40e3-9034-609f4fc1bcdf",
-        "nombre": "Batman"
+        "img": "./img/perritos1.jpeg",
+        "nombre": "La banda"
     }
 ]
